@@ -1,4 +1,4 @@
-<p style="font-size: 30px" align="center">Hi there, I'm <a href="https://github.com/AelitaJva" target="_blank">Aelita</a> 
+<p style="font-size: 50px" align="center">Hi there, I'm <a href="https://github.com/AelitaJva" target="_blank">Aelita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></p>
 
 ## 🙋‍♂️ About Me
