@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/AelitaJva">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=I'm+an+SDET+Engineer+Developer!"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=I'm+a+Software+Development+Engineer+in+Test!"/>
 </a>
 
 <div align="center">
