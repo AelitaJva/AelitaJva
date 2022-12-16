@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/AelitaJva">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I'm+studying+at+DevX"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I+study+at+DevX"/>
 </a>
 
 <a href="https://github.com/AelitaJva">
