@@ -54,9 +54,9 @@
 ##
 
 <p align="center">
-<a href="https://github.com/AelitaJva"><img alt="Subham Raoniar's Top Languages" src="https://github-profile-trophy.vercel.app/?username=AelitaJva&theme=radical"/>
+<a href="https://github.com/AelitaJva"><img alt="Aelita Effects Top Languages" src="https://github-profile-trophy.vercel.app/?username=AelitaJva&theme=radical"/>
 </a>
 </p>
 
-<a href="https://github.com/AelitaJva"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=AelitaJva&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/AelitaJva"><img alt="Aelita Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=AelitaJva&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
