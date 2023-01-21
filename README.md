@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://Elkhan2003.github.io/backend/Elcho/img/vs-code.png"/>&nbsp&nbsp</a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://elcho911.netlify.app/Elcho/img/vs-code.png"/>&nbsp&nbsp</a>
         <a href="https://www.jetbrains.com/idea/" target="_blank"> <img width="45px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img width="60px" src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
     <a href="https://github.com/" target="_blank"> <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/768px-Github-desktop-logo-symbol.svg.png"/> </a> 
