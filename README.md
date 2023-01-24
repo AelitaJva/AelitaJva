@@ -23,7 +23,7 @@
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/vs-code.png"/>&nbsp&nbsp</a>
         <a href="https://www.jetbrains.com/idea/" target="_blank"> <img width="45px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img width="60px" src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img width="60px" src="https://cdn-images-1.medium.com/max/1200/1*7khrXvKlEjzsh2VKsc_cAA.png"/> </a> 
     <a href="https://github.com/" target="_blank"> <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/768px-Github-desktop-logo-symbol.svg.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
