@@ -1,7 +1,7 @@
 <h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/AelitaJva" target="_blank">Aelita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 
 
 
 <a href="https://github.com/AelitaJva">
