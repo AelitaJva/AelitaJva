@@ -5,11 +5,11 @@
 
 
 <a href="https://github.com/AelitaJva">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I+study+at+DevX"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Supper Star!"/>
 </a>
 
 <a href="https://github.com/AelitaJva">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=I'm+a+Software+Development+Engineer+in+Test!"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=Software+Development+Engineer+in+Test"/>
 </a>
 
 <div align="center">
